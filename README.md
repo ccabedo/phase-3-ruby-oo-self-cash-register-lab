@@ -29,7 +29,7 @@ instance method, we use the `self` keyword to refer to the instance on which we
 are operating. For example:
 
 ```ruby
-class Person
+class Person`
 
   attr_accessor :age
 
